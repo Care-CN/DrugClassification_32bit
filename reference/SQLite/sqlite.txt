@@ -1,0 +1,38 @@
+edge://newtab/
+edge://newtab/
+
+https://www.baidu.com/s?tn=68018901_39_oem_dg&ie=utf-8&word=sqlite%20unable%20to%20open%20database%20file
+https://www.baidu.com/s?tn=68018901_39_oem_dg&ie=utf-8&word=sqlite%20unable%20to%20open%20database%20file
+
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=68018901_39_oem_dg&wd=sqlite%E6%9C%89%E5%87%A0%E4%B8%AA%E8%A1%A8&oq=pycharm%25E7%25A4%25BE%25E5%258C%25BA%25E7%2589%2588%2520sqlite&rsv_pq=b1e258440005155f&rsv_t=1376xp3Ce1GhoDKChg9yWgPEwHOmsbg4ocj%2BY88C%2FqCOY0s%2BbvQvTG67szjphmvTmbUchVx93lSL&rqlang=cn&rsv_enter=0&rsv_dl=tb&rsv_btype=t&inputT=5469&rsv_sug3=83&rsv_sug2=0&prefixsug=sqlite%25E6%259C%2589%25E5%2587%25A0%25E4%25B8%25AA%25E8%25A1%25A8&rsp=4&rsv_sug4=10456
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=68018901_39_oem_dg&wd=sqlite%E6%9C%89%E5%87%A0%E4%B8%AA%E8%A1%A8&oq=pycharm%25E7%25A4%25BE%25E5%258C%25BA%25E7%2589%2588%2520sqlite&rsv_pq=b1e258440005155f&rsv_t=1376xp3Ce1GhoDKChg9yWgPEwHOmsbg4ocj%2BY88C%2FqCOY0s%2BbvQvTG67szjphmvTmbUchVx93lSL&rqlang=cn&rsv_enter=0&rsv_dl=tb&rsv_btype=t&inputT=5469&rsv_sug3=83&rsv_sug2=0&prefixsug=sqlite%25E6%259C%2589%25E5%2587%25A0%25E4%25B8%25AA%25E8%25A1%25A8&rsp=4&rsv_sug4=10456
+
+https://www.freesion.com/article/28931185364/
+https://www.freesion.com/article/28931185364/
+
+https://blog.csdn.net/u011555996/article/details/128278599
+https://blog.csdn.net/u011555996/article/details/128278599
+
+(48条消息) python 操作sqlite数据库_python sqlite_-哈哈哈哈-的博客-CSDN博客
+https://blog.csdn.net/m0_54939753/article/details/122715636
+
+SQLite – Python | 菜鸟教程
+https://www.runoob.com/sqlite/sqlite-python.html
+
+Python使用sqlite3模块内置数据库_Python_站圈网_站圈网
+http://www.zhano.cn/python/3373.html
+
+python内置SQLite数据库使用方法 - 知乎
+https://zhuanlan.zhihu.com/p/453123664
+
+Python其实很简单 第二十八章 Python自带的数据库SQLite
+https://baijiahao.baidu.com/s?id=1728871445262033862&wfr=spider&for=pc
+
+(48条消息) Python中内置数据库！SQLite使用指南！_ShowMeAI的博客-CSDN博客_python 内置数据库
+https://blog.csdn.net/ShowMeAI/article/details/127798696
+
+百度翻译-200种语言互译、沟通全世界！
+https://fanyi.baidu.com/?aldtype=16047#en/zh/unable%20to%20open%20database%20file
+
+​​SQLite用法
+

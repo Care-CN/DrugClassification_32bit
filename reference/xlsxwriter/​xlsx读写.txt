@@ -1,0 +1,27 @@
+(48条消息) python模块：xlsxwriter和xlrd相结合读取、写入excel文件_攻城狮joe的博客-CSDN博客
+https://cmderq.blog.csdn.net/article/details/45024745?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-45024745-blog-102955908.pc_relevant_antiscanv2&depth_1-utm_source=distribute.pc_relevant_t0.none
+
+(48条消息) xlsxwriter 简单用法_Lucas__liu的博客-CSDN博客_xlsxwriter
+https://blog.csdn.net/lb245557472/article/details/102955908/
+
+Creating Excel files with Python and XlsxWriter — XlsxWriter Documentation
+https://xlsxwriter.readthedocs.io/
+
+edge://newtab/
+edge://newtab/
+
+python 读取xlsx_百度搜索
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=68018901_39_oem_dg&wd=python%20%E8%AF%BB%E5%8F%96xlsx&oq=xlrd&rsv_pq=febd49820000198f&rsv_t=a5a0Gt6CE9A0P73V94pMeSu8D5ATqa7Hpb2iIk6qDqwpG757ZJyc3LIIij8q1OHfrLg4OciYz13K&rqlang=cn&rsv_enter=1&rsv_dl=tb&rsv_sug3=20&rsv_sug1=15&rsv_sug7=100&rsv_sug2=0&rsv_btype=t&inputT=11945&rsv_sug4=13104
+
+python中xlrd模块的使用详解_python_脚本之家
+https://www.jb51.net/article/205141.htm
+
+最全整理！Python 操作Excel库xlrd与xlwt常用操作详解！
+https://baijiahao.baidu.com/s?id=1692102953555208325&wfr=spider&for=pc
+
+循环 | 白月黑羽
+https://www.byhy.net/tut/py/basic/11/
+
+​xlsx读写
+
+
